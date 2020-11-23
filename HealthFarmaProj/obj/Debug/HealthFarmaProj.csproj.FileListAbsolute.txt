@@ -1,0 +1,16 @@
+C:\Users\ASUS\source\repos\HealthFarmaProj\HealthFarmaProj\bin\Debug\HealthFarmaProj.exe.config
+C:\Users\ASUS\source\repos\HealthFarmaProj\HealthFarmaProj\bin\Debug\HealthFarmaProj.exe
+C:\Users\ASUS\source\repos\HealthFarmaProj\HealthFarmaProj\bin\Debug\HealthFarmaProj.pdb
+C:\Users\ASUS\source\repos\HealthFarmaProj\HealthFarmaProj\obj\Debug\HealthFarmaProj.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\HealthFarmaProj\HealthFarmaProj\obj\Debug\HealthFarmaProj.Form1.resources
+C:\Users\ASUS\source\repos\HealthFarmaProj\HealthFarmaProj\obj\Debug\HealthFarmaProj.HomePage.resources
+C:\Users\ASUS\source\repos\HealthFarmaProj\HealthFarmaProj\obj\Debug\HealthFarmaProj.Properties.Resources.resources
+C:\Users\ASUS\source\repos\HealthFarmaProj\HealthFarmaProj\obj\Debug\HealthFarmaProj.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\HealthFarmaProj\HealthFarmaProj\obj\Debug\HealthFarmaProj.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\HealthFarmaProj\HealthFarmaProj\obj\Debug\HealthFarmaProj.exe
+C:\Users\ASUS\source\repos\HealthFarmaProj\HealthFarmaProj\obj\Debug\HealthFarmaProj.pdb
+C:\Users\ASUS\source\repos\HealthFarmaProj\HealthFarmaProj\obj\Debug\HealthFarmaProj.RegisterForm.resources
+C:\Users\ASUS\source\repos\HealthFarmaProj\HealthFarmaProj\obj\Debug\HealthFarmaProj.AddMedic.resources
+C:\Users\ASUS\source\repos\HealthFarmaProj\HealthFarmaProj\obj\Debug\HealthFarmaProj.JoinMember.resources
+C:\Users\ASUS\source\repos\HealthFarmaProj\HealthFarmaProj\obj\Debug\HealthFarmaProj.ShowData.resources
+C:\Users\ASUS\source\repos\HealthFarmaProj\HealthFarmaProj\obj\Debug\HealthFarmaProj.ShowMember.resources
